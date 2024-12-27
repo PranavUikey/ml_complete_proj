@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/4deef226e6394dc79606c00f537c3cb8/artifacts
+end_time: 1735271943965
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4deef226e6394dc79606c00f537c3cb8
+run_name: lyrical-trout-208
+run_uuid: 4deef226e6394dc79606c00f537c3cb8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735271937093
+status: 4
+tags: []
+user_id: prana

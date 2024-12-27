@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/333537c7ee9b4c4e938eec16eced0596/artifacts
+end_time: 1735274858830
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 333537c7ee9b4c4e938eec16eced0596
+run_name: placid-cod-93
+run_uuid: 333537c7ee9b4c4e938eec16eced0596
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735274846817
+status: 4
+tags: []
+user_id: prana

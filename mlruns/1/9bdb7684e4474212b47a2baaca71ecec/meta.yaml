@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/9bdb7684e4474212b47a2baaca71ecec/artifacts
+end_time: 1735283841359
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 9bdb7684e4474212b47a2baaca71ecec
+run_name: receptive-smelt-61
+run_uuid: 9bdb7684e4474212b47a2baaca71ecec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735283841025
+status: 3
+tags: []
+user_id: prana

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/29d3a4b06379480b8f64a91f23daabdb/artifacts
+end_time: 1735219289265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29d3a4b06379480b8f64a91f23daabdb
+run_name: welcoming-elk-828
+run_uuid: 29d3a4b06379480b8f64a91f23daabdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735219258594
+status: 4
+tags: []
+user_id: prana

@@ -1,6 +1,6 @@
 pandas
-mlflow==1.30.1
-ipykernel
+mlflow==2.2.2
+notebook
 numpy
 scikit-learn
 matplotlib

@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/a06683c658d449369d664d57563aec46/artifacts
+end_time: 1735219310072
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: a06683c658d449369d664d57563aec46
+run_name: magnificent-rook-6
+run_uuid: a06683c658d449369d664d57563aec46
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735219296412
+status: 4
+tags: []
+user_id: prana
