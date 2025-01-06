@@ -25,11 +25,11 @@ https://github.com/PranavUikey/ml_complete_proj/tree/main
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n end_2_end_ds_project python=3.10.16 -y
+conda create -n end_2_end_ml_project python=3.10.16 -y
 ```
 
 ```bash
-conda activate ml_complete_proj
+conda activate end_2_end_ml_project
 ```
 
 
